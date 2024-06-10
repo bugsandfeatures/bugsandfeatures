@@ -1,4 +1,4 @@
-<p align="center"><img src="https://media.giphy.com/media/26BRAmywAN0PI0JyM/giphy.gif" width="100"/></p>
+
 <p align="center">
 <a href="https://www.youtube.com/c/IdeaSchool1"><img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/></a>
 </p>

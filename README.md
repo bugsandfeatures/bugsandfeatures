@@ -1,6 +1,6 @@
 
 <p align="center">
-<a href="https://www.youtube.com/c/IdeaSchool1"><img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/></a>
+<a href="https://www.youtube.com/@bugsandfeatures"><img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/></a>
 </p>
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=ideahold&style=flat-square&color=blue" alt=""></p>

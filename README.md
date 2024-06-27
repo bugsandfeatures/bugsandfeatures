@@ -12,7 +12,7 @@
 
 ### :man_technologist: &nbsp;About Me :
 
-I am a Developer, Blogger, YouTube video maker and Entrepreneur.
+I am a Developera and YouTube video maker.
 
 - 💻 I make courses based on practice.
 - 📟 I develop my own projects.
@@ -38,7 +38,7 @@ I am a Developer, Blogger, YouTube video maker and Entrepreneur.
 
 ---
 
-### My stats 🔥 &nbsp;
+### 🔥 &nbsp; My stats :
 
 <div id="stat" align="center">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bugsandfeatures&theme=github_dark" alt=""/>

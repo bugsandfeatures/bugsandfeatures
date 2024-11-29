@@ -20,6 +20,13 @@
 - Grafana
 - Jenkins
 - Linux
+- Nginx
+
+---
+### Leetcode :
+<div id="stat" align="center"> 
+    <img src="https://leetcard.jacoblin.cool/bugsandfeatures?theme=unicorn">
+</div>
 
 ---
 
